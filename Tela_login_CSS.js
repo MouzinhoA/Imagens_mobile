@@ -39,3 +39,19 @@ const styles = StyleSheet.create({
     shadowColor: "black",    
   },
 })
+//botao 2
+const styles = StyleSheet.create({
+  container: {
+    backgroundColor: "#A8A3E1",
+    borderRadius: 49,
+    alignSelf: "center",
+    width: 175,
+    height: 64,
+   
+  
+  },
+  shadowProp: {
+    elevation: 120, 
+    shadowColor: "black",    
+  },
+})
