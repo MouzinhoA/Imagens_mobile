@@ -7,7 +7,7 @@ export default function App() {
 </View>
   );
 }
-
+//tela maior CSS
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "#B2AED8",
@@ -23,3 +23,19 @@ const styles = StyleSheet.create({
     shadowColor: "black",    
   },
 });
+
+//botão 1
+const styles = StyleSheet.create({
+  container: {
+    backgroundColor: "#C9C7E8",
+    borderRadius: 49,
+    alignSelf: "center",
+    width: 274,
+    height: 56,
+  
+  },
+  shadowProp: {
+    elevation: 10, 
+    shadowColor: "black",    
+  },
+})
