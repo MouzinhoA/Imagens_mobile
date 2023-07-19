@@ -24,7 +24,7 @@ const styles = StyleSheet.create({
   },
 });
 
-//botão 1
+//box de texto menor
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "#C9C7E8",
@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
     shadowColor: "black",    
   },
 })
-//botao 2
+//botao 1
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "#A8A3E1",
